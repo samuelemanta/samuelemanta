@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuelemanta
 - 👀 I'm interested in leveling up my skills on web development
 - 🌱 I’m currently learning html, css & javascript
-- 💞️ I’m looking to collaborate on html musical & film projects
+- 💞️ I’m looking to collaborate on html musical & movie projects
 - 📫 How to reach me samuelemanta@gmail.com
 
 <!---
